@@ -14,7 +14,7 @@
       <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="twitter"/>
     </a>
   </div>
-  <img src="https://komarev.com/ghpvc/?username=IbrahimSengun63style=flat-square&color=blue" alt=""/>
+
   <h1>
     hey there
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
@@ -34,7 +34,7 @@ I am a Back End Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTG
 
 - :zap: In my free time, I solve problems on Hackerrank, read and write tech articles on medium.
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](www.linkedin.com/in/ibrahim-sengun63)
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-IbrahimSengun63-blue?style=flat&logo=Linkedin&logoColor=white)](www.linkedin.com/in/ibrahim-sengun63)
 
 ---
 
