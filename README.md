@@ -34,7 +34,7 @@ I am a Back End Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTG
 
 - :zap: In my free time, I solve problems on Hackerrank, read and write tech articles on medium.
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-IbrahimSengun63-blue?style=flat&logo=Linkedin&logoColor=white)](www.linkedin.com/in/ibrahim-sengun63)
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-IbrahimSengun63-blue?style=flat&logo=Linkedin&logoColor=white)](https://linkedin.com/in/ibrahim-sengun63)
 
 ---
 
